@@ -12,7 +12,6 @@
 * tku60.html
 
 ## Week4
-* 13.html
 * blog.css
 * blog.html
 *  profile.html
@@ -27,5 +26,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1ODc0OTU0XX0=
+eyJoaXN0b3J5IjpbMTMzNjUzMjQ1Myw1MDU4NzQ5NTRdfQ==
 -->
