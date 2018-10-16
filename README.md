@@ -8,7 +8,7 @@
 * table.html
 * my class.html
 * [課表]()
-* 神奇寶貝
+* [神奇寶貝表格]()
 
 ## Week3
 * div.html
@@ -33,5 +33,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NjI2NzYxLDUwNTg3NDk1NF19
+eyJoaXN0b3J5IjpbLTM4ODkyNTUyLDUwNTg3NDk1NF19
 -->
