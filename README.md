@@ -24,7 +24,7 @@
 * ttt.html
 * [部落格改寫](http://127.0.0.1:1412/w04/blog.html)
 * [個人資料](http://127.0.0.1:1412/w04/profile.html)
-* [Tic Tac Toe]()
+* [Tic Tac Toe](http://127.0.0.1:1412/w04/ttt.html)
 ## Week5
 * index.html
 * imagegallery.html
@@ -37,6 +37,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTg2Njk3LDY3MTk3NjU1NCw1MDU4Nz
-Q5NTRdfQ==
+eyJoaXN0b3J5IjpbLTg0Mjk4NTE4NiwxMjQxODY2OTcsNjcxOT
+c2NTU0LDUwNTg3NDk1NF19
 -->
