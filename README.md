@@ -13,7 +13,8 @@
 ## Week3
 * div.html
 * tku60.html
-* d
+* [div測驗](http://127.0.0.1:1412/w03/div.html)
+* [tku60大戲](http://127.0.0.1:1412/w03/tku60.html)
 
 ## Week4
 * blog.css
@@ -21,6 +22,8 @@
 *  profile.html
 * ttt.css
 * ttt.html
+* [部落格改寫](http://127.0.0.1:1412/w04/blog.html)
+* 
 
 ## Week5
 * index.html
@@ -34,5 +37,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc1MDk2NDMsNTA1ODc0OTU0XX0=
+eyJoaXN0b3J5IjpbNjcxOTc2NTU0LDUwNTg3NDk1NF19
 -->
