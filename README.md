@@ -30,14 +30,12 @@
 * imagegallery.html
 * imagegallery.css
 * petimage.html
-* 圖片的排列]
-* 
-* 
-* 
+* [圖片排列](http://127.0.0.1:1412/w05/imagegallery.html)
+* [寵物圖像網站](http://127.0.0.1:1412/w05/petimage.html/petimage.html)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDgyODM4ODcsMTI0MTg2Njk3LDY3MT
+eyJoaXN0b3J5IjpbLTE4MTIwNjM5OTksMTI0MTg2Njk3LDY3MT
 k3NjU1NCw1MDU4NzQ5NTRdfQ==
 -->
