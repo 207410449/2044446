@@ -23,6 +23,7 @@
 * ttt.css
 * ttt.html
 * [部落格改寫](http://127.0.0.1:1412/w04/blog.html)
+* [個人資料](http://127.0.0.1:1412/w04/profile.html)
 * 
 
 ## Week5
@@ -37,5 +38,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxOTc2NTU0LDUwNTg3NDk1NF19
+eyJoaXN0b3J5IjpbMTUzNzcwNTk1Miw2NzE5NzY1NTQsNTA1OD
+c0OTU0XX0=
 -->
