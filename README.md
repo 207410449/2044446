@@ -21,10 +21,14 @@
 ## Week5
 * index.html
 * imagegallery.html
+* imagegallery.css
+* petimage.html
+* 
+* 
 * 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMzMTI3MTMsNTA1ODc0OTU0XX0=
+eyJoaXN0b3J5IjpbLTExOTQ4MTM0MjQsNTA1ODc0OTU0XX0=
 -->
