@@ -5,6 +5,7 @@
 
 ## Week2
 * table.html
+[神奇寶貝圖表]( http://127.0.0.1:1412/w02/table.html)
 
 ## Week3
 * div.html
@@ -26,5 +27,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIzMTY3OTZdfQ==
+eyJoaXN0b3J5IjpbOTMxNjUyMzE4XX0=
 -->
