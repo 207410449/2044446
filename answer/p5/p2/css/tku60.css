@@ -1,0 +1,36 @@
+#tku60 {
+    width: 630px;
+    height: 100%;
+    margin: 30px auto;
+    background-color: rgba(17, 37, 147);
+    border: 5px solid purple;
+}
+
+#tku60 h1{
+    text-align: center;
+    background-color: #bcac58;
+    margin: 0px;
+    padding: 10px;
+}
+#tku60 #player {
+    width: 620px;
+    height: 100%;
+    background-color: black;
+}
+
+#tku60btn {
+    width: 620px;
+    background-color:#e6c583;
+}
+
+#tku60 button {      
+    text-align: center;
+    display: inline-block;
+    font-size: 13px;
+    margin: 5px 5px;
+    cursor: pointer;
+}
+
+#tku60 img{
+    width: 100%;
+}
