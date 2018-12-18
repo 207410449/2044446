@@ -1,8 +1,7 @@
 # 2044446
 ## Week1
 * intro.html
-* [學校介紹](http://127.0.0.1:1412/w01/intro.html)
-
+* [學校介紹](file:///D:/%E8%B3%87%E5%B7%A5%E4%BD%9C%E6%A5%AD/2044446-master/2044446-master/w01/intro.html)
 
 ## Week2
 * table.html
