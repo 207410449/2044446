@@ -1,19 +1,19 @@
 # 2044446
 ## Week1
 * intro.html
-* [學校介紹](file:///D:/%E8%B3%87%E5%B7%A5%E4%BD%9C%E6%A5%AD/2044446-master/2044446-master/w01/intro.html)
+* [學校介紹](http://127.0.0.1:50262/2044446-master/w01/intro.html)
 
 ## Week2
 * table.html
 * my class.html
 * [課表](http://127.0.0.1:1412/my%20class.html)
-* [神奇寶貝表格](http://127.0.0.1:1412/w02/table.html)
+* [神奇寶貝表格](http://127.0.0.1:50262/2044446-master/w02/table.html)
 
 ## Week3
 * div.html
 * tku60.html
-* [div測驗](http://127.0.0.1:1412/w03/div.html)
-* [tku60大戲](http://127.0.0.1:1412/w03/tku60.html)
+* [div測驗](http://127.0.0.1:50262/2044446-master/w03/div.html)
+* [tku60大戲](http://127.0.0.1:50262/2044446-master/w03/tku60.html)
 
 ## Week4
 * blog.css
@@ -21,22 +21,24 @@
 *  profile.html
 * ttt.css
 * ttt.html
-* [部落格改寫](http://127.0.0.1:1412/w04/blog.html)
-* [個人資料](http://127.0.0.1:1412/w04/profile.html)
-* [Tic Tac Toe](http://127.0.0.1:1412/w04/ttt.html)
+* [部落格改寫](http://127.0.0.1:50262/2044446-master/w04/blog.html)
+* [個人資料](http://127.0.0.1:50262/2044446-master/w04/profile.html)
+* [Tic Tac Toe](http://127.0.0.1:50262/2044446-master/w04/ttt.html)
 ## Week5
 * index.html
 * imagegallery.html
 * imagegallery.css
 * petimage.html
-* [圖片排列](http://127.0.0.1:1412/w05/imagegallery.html)
-* [寵物圖像網站](http://127.0.0.1:1412/w05/petimage.html/petimage.html)
+* [圖片排列](http://127.0.0.1:50262/2044446-master/w05/imagegallery.html)
 ## Week6
 * petimage.html.css
+* [寵物圖像網站](http://127.0.0.1:50262/2044446-master/w05/index.html)
 ## Week7
 * tkuassignment.html
+* [下拉式選單](http://127.0.0.1:50262/2044446-master/w07/tkuassignment/text.html)
 ## Week8 
 * pattern.html
+* [pattern](http://127.0.0.1:50262/2044446-master/w08/index.html)
 
 
 
