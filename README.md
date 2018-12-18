@@ -12,7 +12,7 @@
 ## Week3
 * div.html
 * tku60.html
-* [div測驗](http://127.0.0.1:50262/2044446-master/w03/div.html)
+* [div測驗](http://127.255.255.255:50262/2044446-master/w03/div.html)
 * [tku60大戲](http://127.0.0.1:50262/2044446-master/w03/tku60.html)
 
 ## Week4
