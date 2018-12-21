@@ -40,8 +40,6 @@
 * pattern.html
 * [pattern](http://127.0.0.1:50262/2044446-master/w08/index.html)
 
-期末報告 總和
-* (file:///C:/Users/user/Desktop/%E8%80%83%E8%A9%A6%E8%A4%87%E7%BF%92/%E9%9D%9C%E6%85%8B%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD%20-%20%E8%A4%87%E8%A3%BD.html)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4MTIwNjM5OTksMTI0MTg2Njk3LDY3MT
