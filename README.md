@@ -15,12 +15,6 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="../2044446-master/w05/css/imagegallery.css">
   <link rel="stylesheet" href="css/imagegallery.css">
-  <style>
-    .text{
-text-align: center;
-margin-top: 40px;
-}
-        </style>
 </head>
 
 <body>
@@ -78,9 +72,6 @@ margin-top: 40px;
       </ul>
     </div>
   </nav>
-  <div class="text">
-    <h1>207410449吳忠陽</h1>
-  </div>
 
   <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
