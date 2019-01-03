@@ -1,12 +1,5 @@
 # 207410449
-
-## 心得
-我在這們課中學到了很多以前從未見過的東西 感謝老師一步一步的帶領我們完成 那些我們還未達成的領域 使我們一天一天的成長
-雖然在這3小時的課程中 每次交作業都是心驚膽跳 但是隨著時間一滴一滴的流逝 看到自己的成長 就十分的感謝老師
-從網頁一開始 的架構 到之後的 標題 卡片 插圖 之類的 再來還有css的教導 非常的清楚明瞭 覺得這堂課很充實
-雖然學習網頁這條路很困難 但是我會持續努力的 而且這門課也是老師第一次教學 但是老師在事前準備得相當用心 讓我們都能夠 學習到東西 
-希望往後的日子 能夠更加進步 在這有限的時間裡
-## 期末作業報告
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -19,7 +12,14 @@
     crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="../2044446-master/w05/css/imagegallery.css">
-  <link rel="stylesheet" href="css/imagegallery.css">
+  <link rel="stylesheet" type="text/css" href="../2044446-master/w04/blog.css">
+  <link rel="stylesheet" type="text/css" href="../2044446-master/w06/css/index.css">
+  <style>
+    .text{
+text-align: center;
+margin-top: 40px;
+}
+        </style>
 </head>
 
 <body>
@@ -32,7 +32,7 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link" href="../考試複習/靜態期末作業 - 複製.html"></a> <span class="sr-only"></span></a>
+          <a class="nav-link" href="../考試複習/靜態期末作業 - 複製.html"></a> <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="../2044446-master/w01/intro.html">自我介紹</a>
@@ -74,9 +74,15 @@
           <li>
             <a class="nav-link" href="../2044446-master/w04/ttt.html">ttt</a>
             </li>
+            <li>
+              <a class="nav-link" href="../心得/心得.html">心得</a>
+              </li>
       </ul>
     </div>
   </nav>
+  <div class="text">
+    <h1>207410449吳忠陽</h1>
+  </div>
 
   <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
@@ -88,7 +94,3 @@
 </body>
 
 </html>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTIwNjM5OTksMTI0MTg2Njk3LDY3MT
-k3NjU1NCw1MDU4NzQ5NTRdfQ==
--->
