@@ -32,7 +32,7 @@ margin-top: 40px;
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link" href="../考試複習/靜態期末作業 - 複製.html"></a> <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="../考試複習/index.html"></a> <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="../2044446-master/w01/intro.html">自我介紹</a>
